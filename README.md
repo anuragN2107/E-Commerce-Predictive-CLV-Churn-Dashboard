@@ -72,7 +72,7 @@ The final Tableau intelligence hub contains a multi-tiered visualization matrix 
 ---
 ---
 
-## 🚀 Step 4: Added Tableau Screenshot 
+## 🚀 Tableau Dashboard Preview
 
 To make your repository pop visually, you should take a screenshot of your finished Tableau dashboard page, name the file `dashboard_preview.png`, and upload it right into your GitHub repository alongside your code. 
 
